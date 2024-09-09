@@ -10,14 +10,30 @@ main {
     text-align: center;
 }
 
-img {
+h1 {
+    font-size: 2.5em; 
+    color: white; 
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+    margin: 0; 
+    padding: 20px 0; 
+    font-family: Arial, sans-serif; 
+    font-weight: bold;
+
+.1 {
+    display: block; 
+    margin: 20px auto; 
+    width: 300px;
+    height: 300px;
+    border-radius: 8px;
+}
+.2  {
     display: block; 
     margin: 20px auto; 
     width: 100px;
     height: 100px;
     border-radius: 8px;
 }
-
 footer {
     background-color: blue;
     color: white;
